@@ -68,23 +68,6 @@
         border-bottom: 2px solid #191970;
     }
 
-    .promo {
-        display: block;
-        margin: 0 auto 40px auto; 
-        max-width: 100%; 
-        height: auto;
-        border-radius: 20px; 
-        box-shadow: 0 10px 30px rgba(0, 0, 0, 0.15); 
-        transition: transform 0.3s ease, box-shadow 0.3s ease;
-        border: 4px solid #fff;
-    }
-
-    .promo:hover {
-        transform: scale(1.02); 
-        box-shadow: 0 15px 40px rgba(25, 25, 112, 0.2);
-        cursor: pointer;
-    }
-
     .sub-titulo {
         display: block;
         margin-bottom: 25px;
@@ -137,7 +120,7 @@
         display: block;
         font-size: 1.4rem;
         font-weight: bold;
-        color: #191970;
+        color: #4A90E2;
         margin: 10px 0;
     }
 
@@ -148,6 +131,11 @@
         padding: 10px 20px;
         border-radius: 5px;
         cursor: pointer;
+    }
+
+    .btn-card:hover {
+        background: #ff0000;
+        transform: translateY(-2px);
     }
 
     .site-footer {
