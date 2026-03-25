@@ -13,7 +13,7 @@
                 <div class="nav-links">
                     <a href="../index.html" class="text-header">Home</a>
                     <a href="./produtos.html" class="text-header">Produtos</a>
-                    <a href="#" class="text-header">Cadastro</a>
+                    <a href="./cadastro.html" class="text-header">Cadastro</a>
                 </div>
             </nav>
         </header>
