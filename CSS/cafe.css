@@ -86,14 +86,14 @@ header {
     font-size: 1.1rem;
 }
 
-.price-container {
+.preco-container {
     display: flex;
     flex-direction: column;
     gap: 5px;
     margin-bottom: 25px;
 }
 
-.price-top {
+.preco-topo {
     display: flex;
     align-items: center;
     gap: 10px;
